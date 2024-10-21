@@ -43,3 +43,56 @@ Tabla combinada con filas
 <td> Valor 4</td>
 
 Tablas avanzadas
+
+--------------------------------------------------------------
+Practica 4
+Etiqueta <form></form> (Formulario
+
+*Campos de entrada de datos
+-Type (Indica el tipo de campo de entrada de datos que vamos a utilizar-"text, password, checkbox, radio,
+submit, reset, file, hidden, image, button"
+*buscars password, file, hidden*
+
+-id (Es el identificador de campo)
+
+-Size (Sera el tamaño del campo)
+
+-Name (Es el nombre del campo el cual se enviara desde el formulario al servidor)
+
+*value (Sera el valor por defecto que tendra el campo de texto que se aparecera al usuario al cargar el formular
+
+<input type="tipo" id="identificador" size="tamaño" name="nombre" value="texto
+
+
+
+*Areas de texto
+<text>
+<textarea rows="numerodefilas", cols="numero de columnas" name="nombre"></textarea>
+
+<form>
+
+<p> Ingrea tu nombre completo: <input type="text" name="nombrecompleto"</p>
+
+<p>
+Deja un mensaje<br>
+<textarea row="10" cols="50" name="mensaje"></textarea></p>
+</form>
+
+*rows indica el numero de filas
+*cols indica el numero de columnas que tiene el area del texto
+*name es para asignarle un nombre al cuadro de texto
+
+Controles de accion
+*Checkbox nos permite campirar un dato del usuario mediante un elemento check
+input type="checkbox" id="identificador" name="nombre" checked="checked"/>
+
+*LISTA
+Se utiliza select y option
+<select name"nombre" size="valoresvisibles" multiple>
+</select>
+
+
+
+
+buscar e
+
