@@ -91,8 +91,88 @@ Se utiliza select y option
 <select name"nombre" size="valoresvisibles" multiple>
 </select>
 
+-------------------------------
+PRUEBAAAA
+<html>
+
+<head>
+    <title>Práctica 5</title>
+
+</head>
+
+<body>
+    <form>
+
+        <input type="text" id="1" name="Test" value="Hola buenas tardes" />
+        <input type="password" id="1" name="Test" value="Hola buenas tardes" />
+        <input type="checkbox" id="1" name="Test" value="Hola buenas tardes" />
+        <input type="radio" id="1" name="Test" value="Hola buenas tardes" />
+        <input type="submit" id="1" name="Test" value="Hola buenas tardes" />
+        <input type="reset" id="1" name="Test" value="Hola buenas tardes" />
+        <input type="file" id="1" name="Test" value="Hola buenas tardes" />
+        <input type="hidden" id="1" name="Test" value="Hola buenas tardes" />
+        <input type="image" id="1" name="Test" value="Hola buenas tardes" />
+        <input type="button" id="1" name="Test" value="Hola buenas tardes" />
+
+        <form>
+            <p> ingresa tu nombre <input type="text" name="nombrecompleto"> </p>
+            <p> deja un mensaje <br>
+                <textarea rows="10" cols="50" name="mensaje"></textarea>
+            </p>
+        </form>
+
+        texto del checkbox <br>
+        <input type="checkbox" name="FDB"> Fundamentos de BD <br>
+        <input type="checkbox" name="TDB"> Taller de BD <br>
+        <input type="checkbox" name="ABD"> Administracion de BD <br>
 
 
 
-buscar e
+
+        selecciona cual te gusta mas; <br>
+        <input type="radio" value="FDB" name="MATERIA" /> FBD
+        <input type="radio" value="TDB" name="MATERIA" /> TDB
+        <input type="radio" value="ADB" name="MATERIA" /> ABD<br>
+
+        <select name="Nombre" size="ABD" multiple>
+            <option> EBD</option>
+            <option> BBD</option>
+            <option> VBD</option>
+            <option> GBD</option>
+            <option> HBD</option>
+            <option selected="selected"> IBD</option>
+
+
+        </select> <br>
+
+        <label>Nombre:
+            <input type="text" name="hola">
+        </label> <br>
+
+
+
+        <option></option><br>
+
+
+
+        <p>
+            <select>
+                <option> FBD</option>
+                <option selected="selected"> TBD</option>
+                <option> ABD</option>
+
+
+        </p>
+
+        </select><br>
+
+        <input type="submit" value="textoboton" />
+
+
+    </form>
+
+</body>
+
+
+</html>
 
