@@ -90,7 +90,26 @@ input type="checkbox" id="identificador" name="nombre" checked="checked"/>
 Se utiliza select y option
 <select name"nombre" size="valoresvisibles" multiple>
 </select>
+--------------
+notas 
+Practica 6
+(Todas son de apertura y cierre)
 
+Etiquetas semanticas
+
+Son contenedores que nos ayudan a tener un orden para limitar ciertas cosas de nuestra pagina
+
+<HEADER> </HEADER>, Es un encabezado, representa la cabecera de una seccion o pagina, la parte de arriba incluye el titulo, los menus etc
+
+<NAV> </NAV>, Puede ir en el header y sirve para expecificar vinculos o enlaces de navegación, se podria decir que alberga el menu principal de navegación es un tipo de menu rapido o un apartado del header
+
+<SECTION> </SECTION>, Pernite definir secciones en el documento, pueden ser capitulos, la introduccion, lista de noticias, informacion de contacto
+
+<ARTICLE> </ARTICLE> Permite especificar contenido indeendiente o autonomo que tendria sentido fuera del contexto de la pagina actual
+
+<ASIDE> </ASIDE>, Nos permite a definir contenido al margen del contenido principal de la pagina que mantenga realcion con el mismo, puede ser un glosario de terminos, grupo de enlaces relacionados, barras laterales. por lo general se utiliza para colocar informacion adicional a la pagina, su uso comun es como una columna a uno de los lados de la pagina
+
+<FOOTER> </FOOTER>, Es el pie de pagina de un documento, puede llevar informacion del autor, contactos, redes sociales, etc
 -------------------------------
 PRUEBAAAA
 <html>
