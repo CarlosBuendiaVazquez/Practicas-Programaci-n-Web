@@ -38,8 +38,7 @@
     <a href="practica1.php"> Practica 1</a>
     <h2>Practica 2</h2>
     <a href="practica2.php"> Practica 2</a>
-    <h2>Practica 3</h2>
-    <a href="practica3.php"> Practica 3</a>
+    
     
 
     
