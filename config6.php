@@ -7,7 +7,7 @@
 <?php
 $servidor = "miservidor1234.database.windows.net"; 
 $usuario = "adminUser";                      
-$password = "web3333.";             
+$password = "web1234.";             
 $bd = "myDatabase";                          
 ?>
 
